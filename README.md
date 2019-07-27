@@ -5,9 +5,14 @@ A MATLAB app to extract data from images of data plots.
 
 Please see the [wiki](https://github.com/mnagaoglu/Digitizer/wiki) for instructions on how to use it. 
 
+I was heavily inspired by [WebPlotDigitizer](https://automeris.io/WebPlotDigitizer/), which has been very helpful for me over the years. Digitizer is no way near that in terms of functionality, however, it's a start. 
 
 
 
+  
+    
+    
+ ---
 
 ## MIT License
 
