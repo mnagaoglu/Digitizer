@@ -13,7 +13,7 @@ NOTE: Digitizer is under heavy development. Significant changes to workflow migh
 ## Change log
 | Author | Date | Notes |
 |:----------|:-------------:|:------|
-| MNA |	8/8/19 | * Each data series can have their own anchor points.  * When a new image is loaded, existing data are not lost.  * Symbols from other series are hidden while adding new points. This is to enable clicking on overlapping symbols from different series. |
+| MNA |	8/8/19 | <ul><li>Each data series can have their own anchor points. </li><li>When a new image is loaded, existing data are not lost. </li><li>Symbols from other series are hidden while adding new points. This is to enable clicking on overlapping symbols from different series.</li></ul> |
 
   
 		  
