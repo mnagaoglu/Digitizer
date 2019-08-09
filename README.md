@@ -7,9 +7,16 @@ Please see the [wiki](https://github.com/mnagaoglu/Digitizer/wiki) for instructi
 
 I was heavily inspired by [WebPlotDigitizer](https://automeris.io/WebPlotDigitizer/), which has been very helpful for me over the years. Digitizer is no way near that in terms of functionality, however, it's a start. 
 
+NOTE: Digitizer is under heavy development. Significant changes to workflow might happen.
 
+---
+## Change log
+| Author | Date | Notes |
+|:----------|:-------------:|:------|
+| MNA |	8/8/19 | * Each data series can have their own anchor points.  * When a new image is loaded, existing data are not lost.  * Symbols from other series are hidden while adding new points. This is to enable clicking on overlapping symbols from different series. |
 
   
+		  
     
     
  ---
