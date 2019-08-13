@@ -14,7 +14,7 @@ NOTE: Digitizer is under heavy development. Significant changes to workflow migh
 | Author | Date | Notes |
 |:----------|:-------------:|:------|
 | MNA |	8/8/19 | <ul><li>Each data series can have their own anchor points. </li><li>When a new image is loaded, existing data are not lost. </li><li>Symbols from other series are hidden while adding new points. This is to enable clicking on overlapping symbols from different series.</li></ul> |
-| MNA | 8/12/19 | <ul><li>Custom autoresize to maximize plot area.</li><li>Fine tuning of anchor and data points using arrow keys on keyboard</li><li>Checks for duplicates in series name.</li></ul>|
+| MNA | 8/12/19 | <ul><li>Custom autoresize to maximize plot area.</li><li>Fine tuning of anchor and data points using arrow keys on keyboard</li><li>Checks for duplicates in series name.</li><li>Keep existing series name as starting string in edit mode.</li></ul>|
   
 		  
     
